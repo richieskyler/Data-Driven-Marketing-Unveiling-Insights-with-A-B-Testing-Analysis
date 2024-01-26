@@ -59,12 +59,5 @@ This A/B testing project aims to optimize marketing campaigns by deciding betwee
 
 ## How to Use
 
-Provide instructions on how users can utilize the A/B testing scripts and analyze their own marketing campaigns.
+The Control and Test campaign file are the original data used for the project, While the Campaign file contain the merged file used for the analysis with the created metrics. Follow the python file for how to perfom similar analysis
 
-## License
-
-Specify the license under which your project is released.
-
-## Acknowledgments
-
-Give credit to any third-party tools or libraries used in the project.
