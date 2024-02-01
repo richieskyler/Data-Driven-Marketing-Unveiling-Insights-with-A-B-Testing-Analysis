@@ -57,6 +57,10 @@ This A/B testing project aims to optimize marketing campaigns by deciding betwee
 - If the goal is to increase customer conversion while minimizing cost, Control Campaign is recommended due to higher CR and lower CPC.
 - If the focus is on improving brand awareness, Test Campaign is preferred for its higher CTR and lower CPC.
 
+## Dashboard
+A link this project Dashboard to visualize the Analytics <a href="https://public.tableau.com/app/profile/richard.oloyede/viz/MarketingAnalyticsDashboardABTesting/Dashboard2" target="_blank" rel="noopener noreferrer">A/B Testing Marketing Dashboard</a>
+
+
 ## How to Use
 
 The Control and Test campaign file are the original data used for the project, While the Campaign file contain the merged file used for the analysis with the created metrics. Follow the python file for how to perfom similar analysis
